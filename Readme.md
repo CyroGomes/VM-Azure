@@ -1,11 +1,5 @@
 #VM Azure
 
-Fotos anexadas com um quadrado preto para onde tem que ser clicado na hora de seguir o passo a passo para a criação das maquinas virtuais do azure.
-
-]
-
----
-
 ## 🧭 Etapa 1: Acesso aos Serviços do Azure
 
 📌 *Imagem: "Todos os serviços"*
