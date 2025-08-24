@@ -1,6 +1,6 @@
-#VM Azure
+## VM Azure
 
-## 🧭 Etapa 1: Acesso aos Serviços do Azure
+# 🧭 Etapa 1: Acesso aos Serviços do Azure
 
 📌 *Imagem: "Todos os serviços"*
 
@@ -8,11 +8,11 @@
 - No menu lateral, clique em **"Todos os serviços"**.
 - Localize e selecione **"Máquinas virtuais"** na categoria *Computação*.
 
-🔲 *Confirmação visual*: O serviço "Máquinas virtuais" está destacado com marcação em preto.
+🔲 *Confirmação visual*: O serviço "Máquinas virtuais" está destacado com marcação em vermelho.
 
 ---
 
-## 🖥️ Etapa 2: Acesso à Infraestrutura de Computação
+# 🖥️ Etapa 2: Acesso à Infraestrutura de Computação
 
 📌 *Imagem: "Infraestrutura de computação | Máquinas virtuais"*
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🆕 Etapa 3: Iniciar Criação de Máquina Virtual
+# 🆕 Etapa 3: Iniciar Criação de Máquina Virtual
 
 📌 *Imagem: "Máquinas virtuais – sem instâncias"*
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ⚙️ Etapa 4: Configuração Básica da Máquina Virtual
+# ⚙️ Etapa 4: Configuração Básica da Máquina Virtual
 
 📌 *Imagem: "Criar Máquina Virtual – Aba Básico"*
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 Etapa 5: Provisionamento de VMSS (Conjunto de Dimensionamento)
+# 📈 Etapa 5: Provisionamento de VMSS (Conjunto de Dimensionamento)
 
 📌 *Imagem: "Criar VMSS – Aba Revisar + criar"*
 
